@@ -44,4 +44,6 @@ Se agregó una sección informativa de orientación inicial para el registro de 
 - Se reemplazó el símbolo provisional en la cabecera, portada y pie de página.
 - Se conservaron los verdes y se añadieron acentos dorados.
 - En contacto se dejó **WhatsApp** y correo; se quitó el enlace duplicado de llamada telefónica.
+
+  ![Logo Claro](otro%20FOCO%20color%20claro.png#gh-light-mode-only)
 - Para cambiar el logo más adelante, sustituir `logo-otrofoco.png` por una imagen con el mismo nombre.
